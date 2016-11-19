@@ -13,6 +13,7 @@ body {
 		margin-right: 10%;
 		margin-left: 10%;
 		width: 700px;
+		float: left;
  }
 
 
@@ -58,7 +59,7 @@ h1, h2, {
 
 }
 .sidebar {
-		float: right;
+		float: left;
 		width: 240px;
 		height: 100%;
 		position: relative;
